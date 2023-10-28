@@ -3,9 +3,8 @@
 <br>
 - 🌱 I’m currently learning ASP.NET Core
 <br> 
-- 📫 How to reach me **luizcarlosoliveiramaciel@hotmail.com
+- 📫 How to reach me luizcarlosoliveiramaciel@hotmail.com
 <br>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
