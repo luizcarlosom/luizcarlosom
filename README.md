@@ -7,5 +7,4 @@
 <br>
 <p align="left">
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizcarlosom&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="luizcarlosom" /></p>
