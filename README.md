@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Carlos O. Maciel</h1>
 - 🔭 I’m currently working on MouraTech
-
 - 🌱 I’m currently learning **ASP.NET Core**
-
 - 📫 How to reach me **luizcarlosoliveiramaciel@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
