@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Carlos O. Maciel</h1>
 - 🔭 I’m currently working on MouraTech
 <br>
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning
 <br> 
 - 📫 How to reach me luizcarlosoliveiramaciel@hotmail.com
 <br>
