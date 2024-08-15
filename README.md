@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Carlos O. Maciel</h1>
-- 🔭 I’m currently working on MouraTech
+- 🔭 I’m currently working on Propig
 <br>
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Software Architeture
 <br> 
 - 📫 How to reach me luizcarlosoliveiramaciel@hotmail.com
 <br>
